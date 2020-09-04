@@ -1,0 +1,6 @@
+namespace WebAPIMVCJWT.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
